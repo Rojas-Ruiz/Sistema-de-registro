@@ -9,3 +9,5 @@ Para ejecutar el sistema debes poner
 Hemos vuelto a crear un nuevo app2 para modificar la ejecucion
 
 ```npm install react ```
+
+Sistema de registro 2
